@@ -1,0 +1,8 @@
+name=State of Decay 2 Maps
+id=SoD2Maps
+modversion=0.1.0
+versionMin=42.22
+versionMax=42.22
+description=Four State of Decay 2-inspired regions with hand-authored bases and landmarks. No copyrighted game assets. Requires the Omsk Expansion map pack to connect at x=139.
+poster=poster.png
+require=OmskExpansion
